@@ -15,6 +15,11 @@ function Time() {
   return (
     <div>
       <h1>Dipankar Mandal</h1>
+      <h1>Dipankar Mandal</h1>
+      <h1>Dipankar Mandal</h1>
+      <h1>Dipankar Mandal</h1>
+      <h1>Dipankar Mandal</h1>
+
       {time1}
       <br />
       <button onClick={handleClickIn}>Increase</button>
