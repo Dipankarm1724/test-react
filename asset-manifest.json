@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Dipankarm1724/test-react/static/css/main.f855e6bc.css",
+    "main.js": "/Dipankarm1724/test-react/static/js/main.5826ce33.js",
+    "index.html": "/Dipankarm1724/test-react/index.html",
+    "main.f855e6bc.css.map": "/Dipankarm1724/test-react/static/css/main.f855e6bc.css.map",
+    "main.5826ce33.js.map": "/Dipankarm1724/test-react/static/js/main.5826ce33.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.5826ce33.js"
+  ]
+}
